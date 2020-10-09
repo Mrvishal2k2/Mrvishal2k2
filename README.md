@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrvishal2k2)
 
 
-<img align="center" src="https://github.com/Mrvishal2k2/Mrvishal2k2/blob/main/assets/about.png?raw=true"/>
+<img align="center" src="./assets/about.png?raw=true"/>
 
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Engineering ❤
 - 🔭 I’m currently working on Nothing
