@@ -11,7 +11,7 @@
 
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Engineering ❤
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python as an Hobby !!!
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-18-blue) Teen 😄
 
 
