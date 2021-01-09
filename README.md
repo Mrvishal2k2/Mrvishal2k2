@@ -9,8 +9,8 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-- 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Engineering ❤
-- 🔭 I’m currently working on Making some unique things with Python 😋
+- 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Computer Engineering ❤
+- 🔭 I’m currently working on Making some unique things with Python 😋 at [BotDunia](https://t.me/BotDunia)
 - 🌱 I’m currently learning Python as an Hobby !!!
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-18-blue) Teen 😄
 - 😊 Skills: Quick Learner in All Field 😉
