@@ -17,6 +17,7 @@
 - 😜 Ask me: About any tech stack i know about 😎
 - Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
 <img align="center" src="./assets/git.png?raw=true"/>
+- Wanna know me more ?? [Checkout](https://t.me/AboutMrVishaL)
 
 ![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
