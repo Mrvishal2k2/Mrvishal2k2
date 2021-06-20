@@ -2,8 +2,8 @@
 
 𝗜'𝗺 [Vishal](https://github.com/Mrvishal2k2)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/MrVishal_2k2/)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Mrvishal2k2)](https://github.com/Mrvishal2k2)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/MrVishal_2k2/)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/Mrvishal2k2)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrvishal2k2)
 
 
