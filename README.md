@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://github.com/Mrvishal2k2"><img src="https://github-profile-trophy.vercel.app/?username=Mrvishal2k2" alt="Mrvishal2k2" /></a> </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p align="left"> <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Libraries:</h3>
 <p align="left"> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" alt="pyrogram" width="40" height="40"/> </a> </p>
