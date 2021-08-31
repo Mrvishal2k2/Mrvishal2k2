@@ -42,7 +42,8 @@
 
 ![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
+
 <p align="left"> <a href="https://github.com/Mrvishal2k2"><img src="https://github-profile-trophy.vercel.app/?username=Mrvishal2k2" alt="Mrvishal2k2" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
 
