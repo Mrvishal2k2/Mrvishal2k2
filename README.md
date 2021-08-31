@@ -40,7 +40,7 @@
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
-![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
 
