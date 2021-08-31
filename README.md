@@ -11,8 +11,8 @@
 
 - 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 : Computer Engineering ❤
 - 🔭 I’m currently working on Making some unique things with Python 😋 at [BotDunia](https://t.me/BotDunia)
-- 🌱 I’m currently learning Python(almost done) as an Hobby and C for profession !!!
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-18-blue) Teen 😄
+- 🌱 I’m currently learning Python(self learning) as an Hobby and C for profession !!!
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-19-blue) Teen 😄
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
 - Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Libraries:</h3>
 <p align="left"> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" alt="pyrogram" width="40" height="40"/> </a> </p>
@@ -38,6 +39,7 @@
 
 <h3 align="left">Servers & Hosts:</h3>
 <p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
