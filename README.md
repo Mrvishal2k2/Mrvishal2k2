@@ -40,10 +40,10 @@
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
-![Mrvishal2k2's Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
 
-<p align="left"> <a href="https://github.com/Mrvishal2k2"><img src="https://github-profile-trophy.vercel.app/?username=Mrvishal2k2" alt="Mrvishal2k2" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
 
 
