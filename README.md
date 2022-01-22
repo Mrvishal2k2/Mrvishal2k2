@@ -9,7 +9,6 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-
 - 👨‍💻 Basically Tech Enthusiast Boy who loves to explore.
 - 👨‍🎓 I'm a College Student : Computer Engineering ❤
 - 🔭 I’m currently working on improving skills !
@@ -21,6 +20,7 @@
 - 😜 Ask me: About any tech stack i know about 😎
 - Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
 - Wanna know me more ?? [Checkout](https://t.me/AboutMrVishaL) or ask me 🤔
+
 
 
 <h3 align="left">Languages:</h3>
