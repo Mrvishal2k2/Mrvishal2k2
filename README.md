@@ -8,6 +8,8 @@
 
 
 <img align="center" src="./assets/about.png?raw=true"/>
+
+
 - 👨‍💻 Basically Tech Enthusiast Boy who loves to explore.
 - 👨‍🎓 I'm a College Student : Computer Engineering ❤
 - 🔭 I’m currently working on improving skills !
