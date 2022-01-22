@@ -14,10 +14,10 @@
 - 🔭 I’m currently working on improving skills !
 - ⚰️ I used to code some unique telegram bots with Python at [BotDunia](https://t.me/BotDunia)
 - 🌱 I’m currently improving my Python and C lang skills.And learning Web Development.
-- 🌝 My current field of interest is to learn js and to hunt some bugs or find loopholes in web or android apps!
+- 🌝 My current field of interest is to learn js and to play with HTTP
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-19-blue) Teen 😄
 - 😊 Skills: Quick Learner in All Field 😉
-- 😜 Ask me: About any tech stack i know about 😎
+- 😜 Ask me: About anything i know of 🤔Yes but i know many things 😎
 - Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
 - Wanna know me more ?? [Checkout](https://t.me/AboutMrVishaL) or ask me 🤔
 
