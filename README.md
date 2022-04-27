@@ -11,7 +11,7 @@
 
 - 👨‍💻 Basically Tech Enthusiast Boy who loves to explore.
 - 👨‍🎓 I'm a College Student : Computer Engineering ❤
-- 🔭 I’m currently working on improving skills !
+- 🔭 I’m currently working on Making things that help my resume to get better!
 - ⚰️ I used to code some unique telegram bots with Python at [BotDunia](https://t.me/BotDunia)
 - 🌱 I’m currently improving my Python and C lang skills.And learning Web Development.
 - 🌝 My current field of interest is to learn js and to play with HTTP
@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Libraries:</h3>
-<p align="left"> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" alt="pyrogram" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://github.com/pyrogram/pyrogram" target="_blank"> <img src="https://docs.pyrogram.org/_static/pyrogram.png" alt="pyrogram" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Fav Databases:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
