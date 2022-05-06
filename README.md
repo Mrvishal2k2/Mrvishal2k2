@@ -46,6 +46,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
