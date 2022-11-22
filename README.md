@@ -10,15 +10,16 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-- 👨‍💻 Basically Tech Enthusiast Boy who loves to explore.
-- 👨‍🎓 I'm a College Student : Computer Engineering ❤
-- 🔭 I’m currently working on Making things that help my resume to get better!
-- ⚰️ I used to code some unique telegram bots with Python at [BotDunia](https://t.me/BotDunia)
-- 🌱 I’m currently improving my Python and C lang skills.And learning Web Development.
-- 🌝 My current field of interest is to learn js and to play with HTTP
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-19-blue) Teen 😄
-- 😊 Skills: Quick Learner in All Field 😉
-- 😜 Ask me: About anything i know of 🤔Yes but i know many things 😎
+- 👨‍💻 Basically `Tech Enthusiast` Boy who loves to explore.
+- 👨‍🎓 I'm a College Student : `Computer Engineering` ❤
+- 🔭 I’m currently working on making things that help my resume to get better!
+- ⚰️ I used to code some unique `telegram bots` with Python at [BotDunia](https://t.me/BotDunia)
+- 🌱 I’m currently improving my `Python` and `C` lang skills.And also learning `Web Development`.
+- 🌝 My current field of interest is to learn `django`, `javascript` and to play with HTTP
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Teen 😄
+- 😊 Skills: Quick Learner in All Field
+- 😜 Ask me: Ask about anything i'm familiar with, 🤔Yes btw i know many things in multiple domains 😎
+- 👨‍💻 **Junior Python/Django Developer Intern** at [Zummit Infolabs](https://www.linkedin.com/company/zummit-infolabs-llp).
 - Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
 - Wanna know me more ?? [Checkout](https://t.me/AboutMrVishaL) or ask me 🤔
               
