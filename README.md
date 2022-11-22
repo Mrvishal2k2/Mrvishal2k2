@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on making things that help my resume to get better!
 - ⚰️ I used to code some unique `telegram bots` with Python at [BotDunia](https://t.me/BotDunia)
 - 🌱 I’m currently improving my `Python` and `C` lang skills.And also learning `Web Development`.
-- 🌝 My current field of interest is to learn `django`, `javascript` and to play with HTTP
+- 🌝 My current field of interest is to learn `Django`, `Javascript` and to play with HTTP
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Teen 😄
 - 😊 Skills: Quick Learner in All Field
 - 😜 Ask me: Ask about anything i'm familiar with, 🤔Yes btw i know many things in multiple domains 😎
