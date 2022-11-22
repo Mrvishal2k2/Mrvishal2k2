@@ -13,7 +13,7 @@
 - 👨‍💻 Basically `Tech Enthusiast` Boy who loves to explore.
 - 👨‍🎓 I'm a College Student : `Computer Engineering` ❤
 - 🔭 I’m currently working on making things that help my resume to get better!
-- ⚰️ I used to code some unique `telegram bots` with Python at [BotDunia](https://t.me/BotDunia)
+- ⚰️ I used to code some unique `Telegram Bots` with Python at [BotDunia](https://t.me/BotDunia)
 - 🌱 I’m currently improving my `Python` and `C` lang skills.And also learning `Web Development`.
 - 🌝 My current field of interest is to learn `Django`, `Javascript` and to play with HTTP
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Teen 😄
