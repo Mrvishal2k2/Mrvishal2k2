@@ -10,17 +10,16 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-- 👨‍💻 Basically `Tech Enthusiast` Boy who loves to explore.
+- 👨‍💻 Basically `Tech Enthusiast` Boy who loves to explore
 - 👨‍🎓 I'm a College Student : `Computer Engineering` ❤
-- 🔭 I’m currently working on making things that help my resume to get better!
-- ⚰️ I used to code some unique `Telegram Bots` with Python at [BotDunia](https://t.me/BotDunia)
-- 🌱 I’m currently improving my `Python` and `C` lang skills.And also learning `Web Development`.
-- 🌝 My current field of interest is to learn `Django`, `Javascript` and to play with HTTP
+- 🔭 I’m currently improving my core programming language skills. Also learning `Web Development` to make some wonderful projects
+- 🚀 Exploring JavaScript and Penetration Testing
+- ⚰️ Previously build some unique `Telegram Bots` with Python at [BotDunia](https://t.me/BotDunia) used by more than 50k+ users
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-20-blue) Teen 😄
-- 😊 Skills: Quick Learner in All Field
-- 😜 Ask me: Ask about anything i'm familiar with, 🤔Yes btw i know many things in multiple domains 😎
-- Contact ?? TELEGRAM ME at [Mrvishal_2k2](https://t.me/Mrvishal_2k2)
-- Wanna know me more ?? [Checkout](https://t.me/AboutMrVishaL) or ask me 🤔
+- 😊 Skills: Adaptable and Rapid Learner Across Diverse Fields
+- 😜 Ask me: Questions welcome! 😎 I have a solid understanding of various domains
+- Contact ?? TELEGRAM ME at [@mrvishal_2k2](https://t.me/Mrvishal_2k2)
+- Curious to learn more about me? [Checkout](https://t.me/AboutMrVishaL) or simply ask away! 🤔
               
 
 <h3 align="left">Languages:</h3>
