@@ -11,14 +11,11 @@
 <img align="center" src="./assets/about.png?raw=true"/>
 
 - 👨‍💻 Basically `Tech Enthusiast` who loves to explore tech.
-- 👨‍🎓 I'm a Software Engineer: `Java Developer` at @Capgemini ❤
+- 👨‍🎓 I'm a Software Engineer: `Java Developer`
 - 🔭 Loves to integrate multiple techstacks to make beautiful applications.
 - 🚀 Exploring Ai, LLM, GenAi and Web-Pentesting. 
-- ⚰️ Have built some unique `Telegram Bots` with Python as personal solo project at [BotDunia](https://t.me/BotDunia) and is used by over more than 50k+ users.
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-23-blue) Teen 
-- 😊 Know For: Adaptable and Rapid Learning nature Across Diverse fields.
-- 😜 Ask me: Questions welcome! I have a solid understanding of various domains of my interest.
-- Wanna Talk ?? -> Contact on Linkedin or Telegram me at [@mrvishal_2k2](https://t.me/Mrvishal_2k2)
+- ⚰️ Have built many `Telegram Bots` with Python and they are used by over more than 50k+ users globally. 
+- 😎 Anything to ask : Get some solid tech or crazy stuff to discuss, lets speak and laugh together.
 - Curious to know more of me? [Checkout](https://t.me/AboutMrVishaL) or simply ask away! 🤔
               
 
