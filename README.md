@@ -10,23 +10,23 @@
 
 <img align="center" src="./assets/about.png?raw=true"/>
 
-- 👨‍💻 Basically `Tech Enthusiast` Boy who loves to explore
-- 👨‍🎓 I'm a College Student: `Computer Engineering` ❤
-- 🔭 I’m currently improving my core programming language skills. Also learning `Web Development` to make some wonderful projects
-- 🚀 Exploring JavaScript and Penetration Testing
-- ⚰️ Previously built some unique `Telegram Bots` with Python at [BotDunia](https://t.me/BotDunia) used by more than 50k+ users
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-21-blue) Teen 😄
-- 😊 Skills: Adaptable and Rapid Learner Across Diverse Fields
-- 😜 Ask me: Questions welcome! 😎 I have a solid understanding of various domains
-- Contact ?? TELEGRAM ME at [@mrvishal_2k2](https://t.me/Mrvishal_2k2)
-- Are you curious to learn more about me? [Checkout](https://t.me/AboutMrVishaL) or simply ask away! 🤔
+- 👨‍💻 Basically `Tech Enthusiast` who loves to explore tech.
+- 👨‍🎓 I'm a Software Engineer: `Java Developer` at @Capgemini ❤
+- 🔭 Loves to integrate multiple techstacks to make beautiful applications.
+- 🚀 Exploring Ai, LLM, GenAi and Web-Pentesting. 
+- ⚰️ Have built some unique `Telegram Bots` with Python as personal solo project at [BotDunia](https://t.me/BotDunia) and is used by over more than 50k+ users.
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-23-blue) Teen 
+- 😊 Know For: Adaptable and Rapid Learning nature Across Diverse fields.
+- 😜 Ask me: Questions welcome! I have a solid understanding of various domains of my interest.
+- Wanna Talk ?? -> Contact on Linkedin or Telegram me at [@mrvishal_2k2](https://t.me/Mrvishal_2k2)
+- Curious to know more of me? [Checkout](https://t.me/AboutMrVishaL) or simply ask away! 🤔
               
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="70" height="70"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="70" height="70"/> </a> 
 <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70"/> </a> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="70" height="70"/> </a> 
 <a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/> </a> 
           
 </p>
