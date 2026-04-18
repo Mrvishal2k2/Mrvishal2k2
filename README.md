@@ -63,6 +63,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
+[![Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
 
 
