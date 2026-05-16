@@ -29,9 +29,6 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"/>
   </a>
-  <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70"/>
-  </a>
   <a href="https://www.html.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/>
   </a>
@@ -96,14 +93,14 @@
 
 ### GitHub Stats
 
-[![Github Stats](https://github-readme-stats-anilkrapf.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Mrvishal2k2)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Mrvishal2k2&count_private=true&show_icons=true&theme=gradient)](https://github.com/Mrvishal2k2)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats-anilkrapf.vercel.app/api/top-langs/?username=Mrvishal2k2&layout=compact)](https://github.com/Mrvishal2k2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2&layout=compact&theme=gradient)](https://github.com/Mrvishal2k2)
 
 ### GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Mrvishal2k2)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Mrvishal2k2)
 
 
