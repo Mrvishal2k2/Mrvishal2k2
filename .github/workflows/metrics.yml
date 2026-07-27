@@ -56,10 +56,9 @@ jobs:
           # counts toward the breakdown without exposing a single private repo.
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css, scss, dockerfile
-          plugin_languages_sections: most-used
-          repositories_affiliations: owner, collaborator
+          plugin_languages_colors: github
 
           # Achievements is off. It rendered "unexpected error" both before and
           # after read:org and read:user were added to the PAT, so the cause is not
