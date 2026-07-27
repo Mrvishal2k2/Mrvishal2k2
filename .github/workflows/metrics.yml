@@ -58,7 +58,8 @@ jobs:
           plugin_languages_sections: most-used
           repositories_affiliations: owner, collaborator
 
-          # Replaces the broken trophy card.
+          # Trophy replacement. Needs read:org and read:user on the PAT beyond
+          # `repo` — without them this renders "unexpected error".
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
