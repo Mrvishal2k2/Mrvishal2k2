@@ -41,9 +41,9 @@ Spring Tool Suite and Eclipse for Java · Cursor and VS Code for everything else
 
 <img src="./assets/git.png?raw=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Metrics](./github-metrics.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Trophy](https://trophy.benkou.dev/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
 
