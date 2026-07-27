@@ -58,8 +58,12 @@ jobs:
           plugin_languages_sections: most-used
           repositories_affiliations: owner, collaborator
 
-          # Replaces the broken trophy card.
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
+          # Trophy replacement — disabled, it rendered "unexpected error".
+          # Achievements reads follower/star/org data, which `repo` scope alone
+          # does not cover. To retry: add read:org and read:user to the PAT, then
+          # uncomment. Languages above is the card that actually matters here and
+          # works on `repo` alone.
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
+          # plugin_achievements_threshold: B
+          # plugin_achievements_secrets: yes
