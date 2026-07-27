@@ -51,6 +51,12 @@ jobs:
           base: header, activity, repositories
           config_timezone: Asia/Kolkata   # adjust if wrong
 
+          # The rendered canvas was 491px tall and the languages bar sat below that
+          # edge, so the section looked empty when it had in fact rendered. Extra
+          # vertical padding gives the canvas room. Raise the second value again if
+          # anything is still cut off at the bottom.
+          config_padding: 0, 20 + 20%
+
           # Replaces the broken top-languages card.
           # repositories_affiliations + a `repo`-scoped token means private work
           # counts toward the breakdown without exposing a single private repo.
