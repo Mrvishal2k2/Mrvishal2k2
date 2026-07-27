@@ -15,7 +15,7 @@
 - 🐍 **Python and Telegram bots** is where the 125K came from
 - 🔐 Pulling apart **auth and payment flows** — it's changed how I design APIs
 - 🧠 Following **AI tooling** closely and running models locally
-- 📄 Full details and résumé on **[mrvishal2k2.me](https://mrvishal2k2.me)**
+- 📄 Full details and resume on **[mrvishal2k2.me](https://mrvishal2k2.me)**
 
 ## 🧰 Tech Stack
 
