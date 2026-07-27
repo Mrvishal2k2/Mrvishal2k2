@@ -1,68 +1,56 @@
-# Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+**Java backend by profession · Python and Telegram bots by obsession.**
 
-𝗜'𝗺 [Vishal](https://github.com/Mrvishal2k2)
+**125K+ users** across the bots I've built — around **10K active every month**.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrvishal2k2)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/MrVishal_2k2/)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/Mrvishal2k2)
+[![Portfolio](https://img.shields.io/badge/mrvishal2k2.me-6DB33F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mrvishal2k2.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrvishal2k2)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AboutMrVishaL)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrvishal2k2)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrvishal2k2)
 
+<img src="./assets/about.png?raw=true"/>
 
-<img align="center" src="./assets/about.png?raw=true"/>
+- ☕ **Java and Spring Boot** professionally — open to new roles
+- 🐍 **Python and Telegram bots** is where the 125K came from
+- 🔐 Pulling apart **auth and payment flows** — it's changed how I design APIs
+- 🧠 Following **AI tooling** closely and running models locally
+- 📄 Full details and résumé on **[mrvishal2k2.me](https://mrvishal2k2.me)**
 
-- 👨‍💻 Basically `Tech Enthusiast` who loves to explore tech.
-- 👨‍🎓 I'm a Software Engineer: `Java Developer`
-- 🔭 Loves to integrate multiple techstacks to make beautiful applications.
-- 🚀 Exploring Ai, LLM, GenAi and Web-Pentesting. 
-- ⚰️ Have built many `Telegram Bots` with Python and they are used by over more than 50k+ users globally. 
-- 😎 Anything to ask : Get some solid tech or crazy stuff to discuss, lets speak and laugh together.
-- Curious to know more of me? [Checkout](https://t.me/AboutMrVishaL) or simply ask away! 🤔
-              
+## 🧰 Tech Stack
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="70" height="70"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="70" height="70"/> </a> 
-<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70"/> </a> 
-<a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/> </a> 
-          
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Databases:</h3>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
-</p>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="80" height="80"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vscode" width="80" height="80"/> </a>          
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Servers & Hosts:</h3>
-<p align="left"> 
-<a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="70"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> 
-</p>
+Spring Tool Suite and Eclipse for Java · Cursor and VS Code for everything else.
 
+<img src="./assets/git.png?raw=true"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Some Stuff 🤷‍♂️
+<!-- Every card from github-readme-stats.vercel.app has now failed here — stats,
+     top-languages and trophy alike. That host is permanently over GitHub's API
+     quota, so no combination of parameters brings them back. top-langs was also
+     computing over only the ~5 public repos, so it understated the work even when
+     it did render. The streak card lives on a different host and still works.
 
-<img align="center" src="./assets/git.png?raw=true"/>
+     .github/workflows/metrics.yml replaces all three: it renders on a schedule and
+     commits the SVG here, so a viewer's browser never contacts a third party.
+     After the workflow's first successful run, uncomment: -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=Mrvishal2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrvishal2k2&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvishal2k2)](https://github.com/Mrvishal2k2)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mrvishal2k2&row=2&column=4)](https://github.com/Mrvishal2k2)
-
-
+<!-- ![Metrics](./github-metrics.svg) -->
