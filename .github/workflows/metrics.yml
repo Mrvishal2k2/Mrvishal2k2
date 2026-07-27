@@ -34,6 +34,9 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    # METRICS_TOKEN lives in the "prod" environment, not in repository secrets.
+    # Without this line the job cannot read it and the token arrives empty.
+    environment: prod
     steps:
       - name: Render profile metrics
         uses: lowlighter/metrics@latest
