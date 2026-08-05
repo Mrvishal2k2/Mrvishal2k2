@@ -53,7 +53,7 @@ Spring Tool Suite and Eclipse for Java · Cursor and VS Code for everything else
        stats and top-languages cards, all of which died on the shared
        github-readme-stats.vercel.app instance.
      - trophy.benkou.dev is a self-hosted mirror of github-profile-trophy. It works
-       where the official vercel instance does not, but it is still someone else's
+       where the official vercel instance does not, but it is still someone else's 
        server — if it goes quiet, the fix is to self-host the same project.
      - The metrics achievements plugin was meant to replace the trophy locally, but
        kept rendering "unexpected error" even with read:org and read:user added. -->
