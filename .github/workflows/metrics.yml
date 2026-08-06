@@ -39,7 +39,9 @@ jobs:
     environment: prod
     steps:
       - name: Render profile metrics
-        uses: lowlighter/metrics@latest
+        # Pinned rather than @latest: the runs resolve to v3.34 anyway, and pinning
+        # keeps output reproducible instead of shifting under you.
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Commit the SVG as you, not as github-actions[bot]. Without this the bot
@@ -51,11 +53,16 @@ jobs:
           base: header, activity, repositories
           config_timezone: Asia/Kolkata   # adjust if wrong
 
-          # The rendered canvas was 491px tall and the languages bar sat below that
-          # edge, so the section looked empty when it had in fact rendered. Extra
-          # vertical padding gives the canvas room. Raise the second value again if
-          # anything is still cut off at the bottom.
-          config_padding: 0, 20 + 20%
+          # Some runs came back with partial GraphQL data — stargazers, forkers,
+          # watchers, releases and the language breakdown all zeroed while the repo
+          # count stayed correct — and metrics rendered that degraded result and
+          # committed it over a good one (522px/53KB dropping to 417px/47KB).
+          # Retry rendering instead of accepting the first bad response, and treat
+          # plugin errors as fatal so a failed run leaves the previous good SVG in
+          # place rather than replacing it.
+          retries: 3
+          retries_delay: 300
+          plugins_errors_fatal: yes
 
           # Replaces the broken top-languages card.
           # repositories_affiliations + a `repo`-scoped token means private work
